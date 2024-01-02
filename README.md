@@ -96,5 +96,5 @@ The BERT model is intended to be used with the LVBERT tokenizer. As demonstrated
 
 
 
-License:
+## License:
 This project is licensed under the MIT License.
